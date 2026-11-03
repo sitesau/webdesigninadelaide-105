@@ -1,0 +1,22 @@
+{
+  "wheel_id": 695,
+  "structure": "umbrella",
+  "slug": "webdesigninadelaide-105",
+  "project": "web-design-services-adelaide-planning-guide-793b1f0c69a3188f00d",
+  "parent_t1_ref": "webdesigninadelaide-152",
+  "node_role": "feeder",
+  "money_target": "webdesigninadelaide.com.au",
+  "primary_kw": "web design services adelaide planning guide",
+  "intended_url": "https://sitesau.github.io/webdesigninadelaide-105/",
+  "tier": "T2",
+  "writeback_nonce": "db7684b195788fb1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/web-design-services-adelaide-d85c3958443acb12c6ed0bb7806543d7a6/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
